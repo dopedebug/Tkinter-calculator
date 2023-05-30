@@ -1,2 +1,2 @@
-# SImple-calculator
+# Tkinter-calculator
 Bhai calculator se acha pen paper pe calculate karle
